@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LogITpe21\Week12-BlackSheep-File\Week12-Seasons\bin\Debug\netcoreapp3.1\Week12-Seasons.exe
+C:\Users\opilane\source\repos\LogITpe21\Week12-BlackSheep-File\Week12-Seasons\bin\Debug\netcoreapp3.1\Week12-Seasons.deps.json
+C:\Users\opilane\source\repos\LogITpe21\Week12-BlackSheep-File\Week12-Seasons\bin\Debug\netcoreapp3.1\Week12-Seasons.runtimeconfig.json
+C:\Users\opilane\source\repos\LogITpe21\Week12-BlackSheep-File\Week12-Seasons\bin\Debug\netcoreapp3.1\Week12-Seasons.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LogITpe21\Week12-BlackSheep-File\Week12-Seasons\bin\Debug\netcoreapp3.1\Week12-Seasons.dll
+C:\Users\opilane\source\repos\LogITpe21\Week12-BlackSheep-File\Week12-Seasons\bin\Debug\netcoreapp3.1\Week12-Seasons.pdb
+C:\Users\opilane\source\repos\LogITpe21\Week12-BlackSheep-File\Week12-Seasons\obj\Debug\netcoreapp3.1\Week12-Seasons.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LogITpe21\Week12-BlackSheep-File\Week12-Seasons\obj\Debug\netcoreapp3.1\Week12-Seasons.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LogITpe21\Week12-BlackSheep-File\Week12-Seasons\obj\Debug\netcoreapp3.1\Week12-Seasons.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LogITpe21\Week12-BlackSheep-File\Week12-Seasons\obj\Debug\netcoreapp3.1\Week12-Seasons.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LogITpe21\Week12-BlackSheep-File\Week12-Seasons\obj\Debug\netcoreapp3.1\Week12-Seasons.dll
+C:\Users\opilane\source\repos\LogITpe21\Week12-BlackSheep-File\Week12-Seasons\obj\Debug\netcoreapp3.1\Week12-Seasons.pdb
+C:\Users\opilane\source\repos\LogITpe21\Week12-BlackSheep-File\Week12-Seasons\obj\Debug\netcoreapp3.1\Week12-Seasons.genruntimeconfig.cache

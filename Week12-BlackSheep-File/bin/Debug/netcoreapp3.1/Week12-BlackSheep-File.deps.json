@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Week12-BlackSheep-File/1.0.0": {
+        "runtime": {
+          "Week12-BlackSheep-File.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week12-BlackSheep-File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
